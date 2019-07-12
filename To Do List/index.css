@@ -1,0 +1,19 @@
+input[type=text] {
+  margin-top:5em;
+  position: absolute;
+  left:50%;
+  width: 18em;
+  outline: none;
+  border:none;
+
+}
+#myList{
+  margin-top:5em;
+  position: absolute;
+  left:50%;
+  width: 18em;
+}
+body {
+  max-width: 500px;
+  margin: 0 auto;
+}
